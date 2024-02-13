@@ -4,6 +4,7 @@
 
 - <b>Demo Project</b>
   - [Hello world!](https://github.com/joshmadakor1/Algorithms-Practice)
+    
 - <b>[React Small Projects](https://github.com/Sulaiman475/React-Mini-Projects)</b>
   - [Todo List](https://github.com/Sulaiman475/React-Mini-Projects/tree/main/React-Todo-List)
 <h2> 🤳 Connect with me:</h2>
