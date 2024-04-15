@@ -8,7 +8,7 @@
 - <b>[React Small Projects](https://github.com/Sulaiman475/React-Mini-Projects)</b>
   - [Todo List](https://github.com/Sulaiman475/React-Mini-Projects/tree/main/React-Todo-List)
 - <b>[Projects]
-  - [Notes App JavaScript]((https://github.com/Sulaiman475/Notes-App-Javascript.git))
+  - [Notes App JavaScript](https://github.com/Sulaiman475/Notes-App-Javascript.git)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
